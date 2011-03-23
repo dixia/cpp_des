@@ -1,0 +1,3 @@
+Please do not open cipher file directly. It will cause some problem since some ASCII code cannot be display( We guess).
+
+Also, DES decpypt will also read context from text.txt so if you want to decpypt encpyted text(cipher.txt) plesae rename it as text.txt.
